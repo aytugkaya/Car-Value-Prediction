@@ -1,1 +1,1 @@
-Please observe documnetation / stage documentation for details.
+Please observe documentation / stage documentation for details.
