@@ -1,4 +1,15 @@
-ABSTRACT:
+! IMPORTANT !
+
+Please observe documentation / stage documentation for details.
+
+For data wrangling and EDA phase use Final version_9 file. To start with clean data and observe machine learning phase open machine learning file.
+
+
+ Data file "autos.csv" and "clean_data" could not be uploaded since file is too large. 
+ Please download zipped files or use the link to download "autos.csv" data file.
+
+
+EXECUTIVE SUMMARY:
 
 Motive:
 Each day, thousands of pre-owned cars are sold worldwide. Prediction of the second-hand vehicle price provides an important benchmark to both private buyer and the seller as well as business professionals such as car dealers, lenders and insurance companies.
@@ -29,14 +40,4 @@ Conclusion:
 An arbitrary database retrieved from German online sale website has been retrieved from Kaggle.com. After an extensive data cleaning and manipulation process, data frame was price column has been predicted by numerous non-linear machine learning models. Following normalization via log or box cox transformation, all models were able to predict with root mean square error of less than 2€, with the best regressor error being as low as 1.40€. Error rates are interpreted to be compatible with market demand explained in the “Problem Statement”
 
 
-
-! IMPORTANT !
-
-Please observe documentation / stage documentation for details.
-
-For data wrangling and EDA phase use Final version_9 file. To start with clean data and observe machine learning phase open machine learning file.
-
-
- Data file "autos.csv" and "clean_data" could not be uploaded since file is too large. 
- Please download zipped files or use the link to download "autos.csv" data file.
 
